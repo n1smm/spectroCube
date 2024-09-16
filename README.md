@@ -12,5 +12,5 @@ very simple mouse commands like zoom and rotate can be done. To start the sound 
 
 ### Possible future development
  the idea is to make the cube responsive, so depending from which side you are watching the cube it should be transforming the cube in different ways based on different algorithms.
- For now there is only fft analyizer. but there might be some more interesting sound analysis algorithms possible with ``meyda.js`` (``https://meyda.js.org/``).
+ For now there is only fft analyzer. but there might be some more interesting sound analysis algorithms possible with ``meyda.js`` (``https://meyda.js.org/``).
  
